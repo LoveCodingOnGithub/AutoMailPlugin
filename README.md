@@ -1,0 +1,2 @@
+# AutoMailPlugin
+a webpack plugin 
